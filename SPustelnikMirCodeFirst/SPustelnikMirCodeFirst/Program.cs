@@ -25,7 +25,6 @@ namespace SPustelnikMirCodeFirst
                         db.Tabs.Add(tab);
                         db.SaveChanges();
 
-                        // Display all Blogs from the database 
                         var query = from st in db.Tabs
                                     orderby st.val
                                     select st;
