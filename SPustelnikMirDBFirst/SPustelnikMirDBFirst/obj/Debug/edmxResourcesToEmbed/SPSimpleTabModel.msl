@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="simpleDBSPustelnikModelStoreContainer" CdmEntityContainer="simpleDBSPustelnikEntities">
+    <EntitySetMapping Name="simpleTab">
+      <EntityTypeMapping TypeName="simpleDBSPustelnikModel.simpleTab">
+        <MappingFragment StoreEntitySet="simpleTab">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="val" ColumnName="val" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

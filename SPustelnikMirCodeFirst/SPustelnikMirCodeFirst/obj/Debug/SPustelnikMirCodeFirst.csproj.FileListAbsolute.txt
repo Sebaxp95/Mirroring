@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\bin\Debug\SPustelnikMirCodeFirst.exe.config
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\bin\Debug\SPustelnikMirCodeFirst.exe
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\bin\Debug\SPustelnikMirCodeFirst.pdb
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\bin\Debug\EntityFramework.dll
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\bin\Debug\EntityFramework.xml
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\obj\Debug\SPustelnikMirCodeFirst.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\obj\Debug\SPustelnikMirCodeFirst.exe
+c:\users\student\documents\visual studio 2012\Projects\SPustelnikMirCodeFirst\SPustelnikMirCodeFirst\obj\Debug\SPustelnikMirCodeFirst.pdb
